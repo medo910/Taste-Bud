@@ -18,11 +18,11 @@
     right: 20px;
     max-width: 400px;
   }
-@media (max-width: 500px){
+/* @media (max-width: 500px){
   .contact-card-container {
     max-width: 50px;
   }
-}
+} */
   img {
     border-radius: 10px;
   }
